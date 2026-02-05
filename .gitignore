@@ -1,0 +1,27 @@
+# KiCad files to ignore
+*.bak
+*.bck
+*~
+*.kicad_*-cache
+*-cache.lib
+*-cache.dcm
+fp-lib-table
+sym-lib-table
+*.kicad_prl
+*.kicad_pro.user
+*.kicad_pro.*
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.bak
+*.bck
+*~
+*.kicad_*-cache
+*-cache.lib
+*-cache.dcm
+fp-lib-table
+sym-lib-table
+*.kicad_prl
+*.kicad_pro.user
+*.kicad_pro.*
+*.kicad_sch-bak
+*.kicad_pcb-bak
